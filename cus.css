@@ -19,9 +19,7 @@ body{
     box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
     margin: auto;
     margin-bottom: 30px;
-    background: #FDC830;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #F37335, #FDC830);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #F37335, #FDC830); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+    background-color: #fff;
     border: 3px solid white;
     display: flex;
     flex-wrap: wrap;
